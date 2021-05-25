@@ -1,0 +1,78 @@
+
+.cardD {
+        background-color: #fff;
+    border-radius: .25rem;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+    color: #4a4a4a;
+    overflow: hidden;
+    width: 587px;
+    height: 247px;
+    margin-left: 323px;
+    margin-top: 68px;
+    /* margin: 86px; */
+    text-align: center;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.card-backgroundD {
+  background: linear-gradient(to right, RGB(222, 32, 106), RGB(250, 122, 52));
+  height: 60px;
+  width: 100%;
+  border-top-left-radius: 10px;
+  ²border-top-right-radius: 10px;
+}
+
+.card-imageD {
+    border-radius: 50%;
+    width: 133px;
+    height: auto;
+    position: relative;
+    top: 79px;
+    left: -138px;
+    border: 0px solid white;
+}
+
+.card-infoD {
+      margin-top: 28px;
+    padding: 10px;
+    MARGIN-LEFT: 155PX;
+
+}
+
+
+.titreD{
+  font-size: 23px;
+  color: #f14668;
+}
+
+.discrD{
+  font-size: 18px;
+}
+
+
+.buttonD {
+background-color: #f14668;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.buttonD:hover {
+  cursor: pointer;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ff7575, 0 0 25px #ff7575, 0 0 50px #ff7575,
+    0 0 100px #ff7575;
+} 
+          
+.link{
+  color: #fff;
+}

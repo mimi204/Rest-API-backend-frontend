@@ -1,0 +1,19 @@
+
+.flex-card {
+  display: flex;
+    flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.flex-card > div {
+    border-radius: 25px;
+  width:243px;
+  margin: 15px 30px;
+  text-align: center;
+    color: rgb(0, 0, 0);
+     position: relative;
+     overflow: hidden;
+      background-color: white;
+}
+
